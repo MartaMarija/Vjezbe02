@@ -8,7 +8,7 @@ namespace HotelskeSobe
 {
     internal class Hotel
     {
-        List<Soba> soba;
+        private List<Soba> soba;
         public Hotel()
         {
             soba = new List<Soba>();

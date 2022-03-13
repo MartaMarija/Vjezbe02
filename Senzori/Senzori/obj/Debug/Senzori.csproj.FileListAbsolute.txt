@@ -1,0 +1,8 @@
+C:\Users\Marta\source\repos\Senzori\Senzori\bin\Debug\Senzori.exe.config
+C:\Users\Marta\source\repos\Senzori\Senzori\bin\Debug\Senzori.exe
+C:\Users\Marta\source\repos\Senzori\Senzori\bin\Debug\Senzori.pdb
+C:\Users\Marta\source\repos\Senzori\Senzori\obj\Debug\Senzori.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\Senzori\Senzori\obj\Debug\Senzori.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marta\source\repos\Senzori\Senzori\obj\Debug\Senzori.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\Senzori\Senzori\obj\Debug\Senzori.exe
+C:\Users\Marta\source\repos\Senzori\Senzori\obj\Debug\Senzori.pdb

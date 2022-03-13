@@ -1,0 +1,8 @@
+C:\Users\Marta\source\repos\RegistracijaClanova\RegistracijaClanova\bin\Debug\RegistracijaClanova.exe.config
+C:\Users\Marta\source\repos\RegistracijaClanova\RegistracijaClanova\bin\Debug\RegistracijaClanova.exe
+C:\Users\Marta\source\repos\RegistracijaClanova\RegistracijaClanova\bin\Debug\RegistracijaClanova.pdb
+C:\Users\Marta\source\repos\RegistracijaClanova\RegistracijaClanova\obj\Debug\RegistracijaClanova.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\RegistracijaClanova\RegistracijaClanova\obj\Debug\RegistracijaClanova.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marta\source\repos\RegistracijaClanova\RegistracijaClanova\obj\Debug\RegistracijaClanova.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\RegistracijaClanova\RegistracijaClanova\obj\Debug\RegistracijaClanova.exe
+C:\Users\Marta\source\repos\RegistracijaClanova\RegistracijaClanova\obj\Debug\RegistracijaClanova.pdb

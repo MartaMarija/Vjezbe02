@@ -1,0 +1,8 @@
+C:\Users\Marta\source\repos\HotelskeSobe\HotelskeSobe\bin\Debug\HotelskeSobe.exe.config
+C:\Users\Marta\source\repos\HotelskeSobe\HotelskeSobe\bin\Debug\HotelskeSobe.exe
+C:\Users\Marta\source\repos\HotelskeSobe\HotelskeSobe\bin\Debug\HotelskeSobe.pdb
+C:\Users\Marta\source\repos\HotelskeSobe\HotelskeSobe\obj\Debug\HotelskeSobe.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\HotelskeSobe\HotelskeSobe\obj\Debug\HotelskeSobe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marta\source\repos\HotelskeSobe\HotelskeSobe\obj\Debug\HotelskeSobe.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\HotelskeSobe\HotelskeSobe\obj\Debug\HotelskeSobe.exe
+C:\Users\Marta\source\repos\HotelskeSobe\HotelskeSobe\obj\Debug\HotelskeSobe.pdb

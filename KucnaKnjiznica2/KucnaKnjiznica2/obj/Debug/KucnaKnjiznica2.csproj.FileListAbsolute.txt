@@ -1,0 +1,8 @@
+C:\Users\Marta\source\repos\KucnaKnjiznica2\KucnaKnjiznica2\bin\Debug\KucnaKnjiznica2.exe.config
+C:\Users\Marta\source\repos\KucnaKnjiznica2\KucnaKnjiznica2\bin\Debug\KucnaKnjiznica2.exe
+C:\Users\Marta\source\repos\KucnaKnjiznica2\KucnaKnjiznica2\bin\Debug\KucnaKnjiznica2.pdb
+C:\Users\Marta\source\repos\KucnaKnjiznica2\KucnaKnjiznica2\obj\Debug\KucnaKnjiznica2.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\KucnaKnjiznica2\KucnaKnjiznica2\obj\Debug\KucnaKnjiznica2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marta\source\repos\KucnaKnjiznica2\KucnaKnjiznica2\obj\Debug\KucnaKnjiznica2.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\KucnaKnjiznica2\KucnaKnjiznica2\obj\Debug\KucnaKnjiznica2.exe
+C:\Users\Marta\source\repos\KucnaKnjiznica2\KucnaKnjiznica2\obj\Debug\KucnaKnjiznica2.pdb

@@ -27,15 +27,7 @@ namespace PredlaganjeFilma
 
         private List<Film> DohvatiFilmoveKojeNisamGledao()
         {
-            List<Film> pom = new List<Film>();
-            foreach(Film f in Filmovi)
-            {
-                if(!f.VecGledan)
-                {
-                    pom.Add(f);
-                }
-            }
-            return pom;
+            return Filmovi.FindAll(x => x.VecGledan == false);
         }
 
         public Film PredloziFilm()

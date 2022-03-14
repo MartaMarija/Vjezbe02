@@ -1,0 +1,8 @@
+C:\Users\Marta\source\repos\PrijavaUSustav\PrijavaUSustav\bin\Debug\PrijavaUSustav.exe.config
+C:\Users\Marta\source\repos\PrijavaUSustav\PrijavaUSustav\bin\Debug\PrijavaUSustav.exe
+C:\Users\Marta\source\repos\PrijavaUSustav\PrijavaUSustav\bin\Debug\PrijavaUSustav.pdb
+C:\Users\Marta\source\repos\PrijavaUSustav\PrijavaUSustav\obj\Debug\PrijavaUSustav.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\PrijavaUSustav\PrijavaUSustav\obj\Debug\PrijavaUSustav.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marta\source\repos\PrijavaUSustav\PrijavaUSustav\obj\Debug\PrijavaUSustav.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\PrijavaUSustav\PrijavaUSustav\obj\Debug\PrijavaUSustav.exe
+C:\Users\Marta\source\repos\PrijavaUSustav\PrijavaUSustav\obj\Debug\PrijavaUSustav.pdb

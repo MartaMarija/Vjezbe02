@@ -1,0 +1,8 @@
+C:\Users\Marta\source\repos\OtvaranjeEmailRacuna\OtvaranjeEmailRacuna\bin\Debug\OtvaranjeEmailRacuna.exe.config
+C:\Users\Marta\source\repos\OtvaranjeEmailRacuna\OtvaranjeEmailRacuna\bin\Debug\OtvaranjeEmailRacuna.exe
+C:\Users\Marta\source\repos\OtvaranjeEmailRacuna\OtvaranjeEmailRacuna\bin\Debug\OtvaranjeEmailRacuna.pdb
+C:\Users\Marta\source\repos\OtvaranjeEmailRacuna\OtvaranjeEmailRacuna\obj\Debug\OtvaranjeEmailRacuna.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\OtvaranjeEmailRacuna\OtvaranjeEmailRacuna\obj\Debug\OtvaranjeEmailRacuna.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marta\source\repos\OtvaranjeEmailRacuna\OtvaranjeEmailRacuna\obj\Debug\OtvaranjeEmailRacuna.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\OtvaranjeEmailRacuna\OtvaranjeEmailRacuna\obj\Debug\OtvaranjeEmailRacuna.exe
+C:\Users\Marta\source\repos\OtvaranjeEmailRacuna\OtvaranjeEmailRacuna\obj\Debug\OtvaranjeEmailRacuna.pdb

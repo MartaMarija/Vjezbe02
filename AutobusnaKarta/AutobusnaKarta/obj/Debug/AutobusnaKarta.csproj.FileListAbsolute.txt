@@ -1,0 +1,8 @@
+C:\Users\Marta\source\repos\AutobusnaKarta\AutobusnaKarta\bin\Debug\AutobusnaKarta.exe.config
+C:\Users\Marta\source\repos\AutobusnaKarta\AutobusnaKarta\bin\Debug\AutobusnaKarta.exe
+C:\Users\Marta\source\repos\AutobusnaKarta\AutobusnaKarta\bin\Debug\AutobusnaKarta.pdb
+C:\Users\Marta\source\repos\AutobusnaKarta\AutobusnaKarta\obj\Debug\AutobusnaKarta.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\AutobusnaKarta\AutobusnaKarta\obj\Debug\AutobusnaKarta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marta\source\repos\AutobusnaKarta\AutobusnaKarta\obj\Debug\AutobusnaKarta.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\AutobusnaKarta\AutobusnaKarta\obj\Debug\AutobusnaKarta.exe
+C:\Users\Marta\source\repos\AutobusnaKarta\AutobusnaKarta\obj\Debug\AutobusnaKarta.pdb

@@ -1,0 +1,8 @@
+C:\Users\Marta\source\repos\TemperaturaUDanu\TemperaturaUDanu\bin\Debug\TemperaturaUDanu.exe.config
+C:\Users\Marta\source\repos\TemperaturaUDanu\TemperaturaUDanu\bin\Debug\TemperaturaUDanu.exe
+C:\Users\Marta\source\repos\TemperaturaUDanu\TemperaturaUDanu\bin\Debug\TemperaturaUDanu.pdb
+C:\Users\Marta\source\repos\TemperaturaUDanu\TemperaturaUDanu\obj\Debug\TemperaturaUDanu.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\TemperaturaUDanu\TemperaturaUDanu\obj\Debug\TemperaturaUDanu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marta\source\repos\TemperaturaUDanu\TemperaturaUDanu\obj\Debug\TemperaturaUDanu.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\TemperaturaUDanu\TemperaturaUDanu\obj\Debug\TemperaturaUDanu.exe
+C:\Users\Marta\source\repos\TemperaturaUDanu\TemperaturaUDanu\obj\Debug\TemperaturaUDanu.pdb

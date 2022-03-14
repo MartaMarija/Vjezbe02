@@ -1,0 +1,8 @@
+C:\Users\Marta\source\repos\Prvenstvo\Prvenstvo\bin\Debug\Prvenstvo.exe.config
+C:\Users\Marta\source\repos\Prvenstvo\Prvenstvo\bin\Debug\Prvenstvo.exe
+C:\Users\Marta\source\repos\Prvenstvo\Prvenstvo\bin\Debug\Prvenstvo.pdb
+C:\Users\Marta\source\repos\Prvenstvo\Prvenstvo\obj\Debug\Prvenstvo.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\Prvenstvo\Prvenstvo\obj\Debug\Prvenstvo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marta\source\repos\Prvenstvo\Prvenstvo\obj\Debug\Prvenstvo.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\Prvenstvo\Prvenstvo\obj\Debug\Prvenstvo.exe
+C:\Users\Marta\source\repos\Prvenstvo\Prvenstvo\obj\Debug\Prvenstvo.pdb

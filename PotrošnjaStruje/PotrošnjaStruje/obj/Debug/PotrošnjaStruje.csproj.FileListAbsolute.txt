@@ -1,0 +1,8 @@
+C:\Users\Marta\source\repos\PotrošnjaStruje\PotrošnjaStruje\bin\Debug\PotrošnjaStruje.exe.config
+C:\Users\Marta\source\repos\PotrošnjaStruje\PotrošnjaStruje\bin\Debug\PotrošnjaStruje.exe
+C:\Users\Marta\source\repos\PotrošnjaStruje\PotrošnjaStruje\bin\Debug\PotrošnjaStruje.pdb
+C:\Users\Marta\source\repos\PotrošnjaStruje\PotrošnjaStruje\obj\Debug\PotrošnjaStruje.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\PotrošnjaStruje\PotrošnjaStruje\obj\Debug\PotrošnjaStruje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marta\source\repos\PotrošnjaStruje\PotrošnjaStruje\obj\Debug\PotrošnjaStruje.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\PotrošnjaStruje\PotrošnjaStruje\obj\Debug\PotrošnjaStruje.exe
+C:\Users\Marta\source\repos\PotrošnjaStruje\PotrošnjaStruje\obj\Debug\PotrošnjaStruje.pdb

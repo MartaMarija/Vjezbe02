@@ -1,0 +1,8 @@
+C:\Users\Marta\source\repos\PredlaganjeFilma\PredlaganjeFilma\bin\Debug\PredlaganjeFilma.exe.config
+C:\Users\Marta\source\repos\PredlaganjeFilma\PredlaganjeFilma\bin\Debug\PredlaganjeFilma.exe
+C:\Users\Marta\source\repos\PredlaganjeFilma\PredlaganjeFilma\bin\Debug\PredlaganjeFilma.pdb
+C:\Users\Marta\source\repos\PredlaganjeFilma\PredlaganjeFilma\obj\Debug\PredlaganjeFilma.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\PredlaganjeFilma\PredlaganjeFilma\obj\Debug\PredlaganjeFilma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marta\source\repos\PredlaganjeFilma\PredlaganjeFilma\obj\Debug\PredlaganjeFilma.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\PredlaganjeFilma\PredlaganjeFilma\obj\Debug\PredlaganjeFilma.exe
+C:\Users\Marta\source\repos\PredlaganjeFilma\PredlaganjeFilma\obj\Debug\PredlaganjeFilma.pdb

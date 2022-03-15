@@ -15,7 +15,7 @@ namespace Mjenjacnica
 
             DateTime datum = DateTime.Now;
 
-            Potvrda p = new Potvrda(datum, iznos, iznos/ukupno, ukupno, 0.05*ukupno);
+            Potvrda p = new Potvrda(datum, iznos, iznos / ukupno, ukupno, 0.05 * ukupno);
             return p;
         }
 
@@ -23,7 +23,7 @@ namespace Mjenjacnica
         {
             Potvrda p = PromijeniNovac(iznos, valuta);
             Console.WriteLine($"Datum: {p.Datum}\nIznos za promjenu: {p.IznosZaPromjenu} HRK\nPo tečaju: {p.Tecaj}\nIznosi: {p.KonvertiraniIznos} {valuta}\nNaknada: 5% ({p.Naknada} {valuta})");
-            Console.WriteLine($"\nZa isplatiti: {p.KonvertiraniIznos-p.Naknada}");
+            Console.WriteLine($"\nZa isplatiti: {p.KonvertiraniIznos - p.Naknada}");
         }
     }
 }

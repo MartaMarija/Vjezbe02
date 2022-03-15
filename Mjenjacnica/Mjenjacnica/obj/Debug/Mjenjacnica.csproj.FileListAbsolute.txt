@@ -1,0 +1,8 @@
+C:\Users\Marta\source\repos\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marta\source\repos\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\Mjenjacnica\Mjenjacnica\bin\Debug\Mjenjacnica.exe.config
+C:\Users\Marta\source\repos\Mjenjacnica\Mjenjacnica\bin\Debug\Mjenjacnica.exe
+C:\Users\Marta\source\repos\Mjenjacnica\Mjenjacnica\bin\Debug\Mjenjacnica.pdb
+C:\Users\Marta\source\repos\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.exe
+C:\Users\Marta\source\repos\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.pdb

@@ -11,8 +11,8 @@ namespace Mjenjacnica
         public double Konvertiraj(double novac, string valuta)
         {
             TecajnaLista tecajnaLista = new TecajnaLista();
-            double trenutniTecaj = tecajnaLista.ListaTecajeva.Find(x => x.Valuta == valuta).TrenutniTecaj;
-            return novac/ trenutniTecaj;
+            double trenutniTecaj = tecajnaLista.ListaTecajeva.Find(x=> x.Valuta == valuta).TrenutniTecaj;
+            return novac / trenutniTecaj;
         }
     }
 }

@@ -14,7 +14,7 @@ namespace Mjenjacnica
         public double KonvertiraniIznos;
         public double Naknada;
 
-        public Potvrda(DateTime datum, double iznosZaPromjenu,double tecaj, double konvertiraniIznos,double naknada)
+        public Potvrda(DateTime datum, double iznosZaPromjenu, double tecaj, double konvertiraniIznos, double naknada)
         {
             this.Datum = datum;
             this.IznosZaPromjenu = iznosZaPromjenu;
@@ -24,5 +24,5 @@ namespace Mjenjacnica
         }
     }
 
-    
+
 }

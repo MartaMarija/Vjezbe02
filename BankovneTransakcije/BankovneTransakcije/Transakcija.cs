@@ -12,11 +12,6 @@ namespace BankovneTransakcije
         public Racun Primatelj { get; set; }
         public double Iznos { get; set; }
 
-        public Transakcija()
-        {
-
-        }
-
         public Transakcija(Racun primatelj, Racun platitelj, double iznos)
         {
             this.Platitelj = platitelj;

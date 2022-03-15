@@ -20,9 +20,8 @@ namespace BankovneTransakcije
             Console.WriteLine("Unesite iznos");
             iznos = double.Parse(Console.ReadLine());
 
-            Transakcija t = new Transakcija();
             Banka b = new Banka();
-            t = b.IzvrsiPlacanje(ibanPlatitelja, ibanPrimatelja, iznos);
+            Transakcija t = b.IzvrsiPlacanje(ibanPlatitelja, ibanPrimatelja, iznos);
 
             Console.WriteLine($"Novo stanje računa {t.Platitelj.IBAN} je {t.Platitelj.Stanje}");
             Console.WriteLine($"Novo stanje računa {t.Primatelj.IBAN} je {t.Primatelj.Stanje}");

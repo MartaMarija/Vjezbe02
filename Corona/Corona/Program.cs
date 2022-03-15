@@ -54,14 +54,6 @@ namespace Corona
 
                         break;
                 }
-                foreach (Drzave dr in listaDrzava)
-                {
-                    Console.WriteLine(dr.Naziv);
-                    foreach (Gradovi g in dr.ListaGradova)
-                    {
-                        Console.WriteLine(g.NazivGrada);
-                    }
-                }
                 Console.WriteLine();
             }
         }

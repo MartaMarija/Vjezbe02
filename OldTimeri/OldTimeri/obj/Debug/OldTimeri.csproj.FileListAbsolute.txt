@@ -1,0 +1,8 @@
+C:\Users\Marta\source\repos\OldTimeri\OldTimeri\bin\Debug\OldTimeri.exe.config
+C:\Users\Marta\source\repos\OldTimeri\OldTimeri\bin\Debug\OldTimeri.exe
+C:\Users\Marta\source\repos\OldTimeri\OldTimeri\bin\Debug\OldTimeri.pdb
+C:\Users\Marta\source\repos\OldTimeri\OldTimeri\obj\Debug\OldTimeri.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\OldTimeri\OldTimeri\obj\Debug\OldTimeri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marta\source\repos\OldTimeri\OldTimeri\obj\Debug\OldTimeri.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\OldTimeri\OldTimeri\obj\Debug\OldTimeri.exe
+C:\Users\Marta\source\repos\OldTimeri\OldTimeri\obj\Debug\OldTimeri.pdb

@@ -1,0 +1,8 @@
+C:\Users\Marta\source\repos\BankovneTransakcije\BankovneTransakcije\bin\Debug\BankovneTransakcije.exe.config
+C:\Users\Marta\source\repos\BankovneTransakcije\BankovneTransakcije\bin\Debug\BankovneTransakcije.exe
+C:\Users\Marta\source\repos\BankovneTransakcije\BankovneTransakcije\bin\Debug\BankovneTransakcije.pdb
+C:\Users\Marta\source\repos\BankovneTransakcije\BankovneTransakcije\obj\Debug\BankovneTransakcije.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\BankovneTransakcije\BankovneTransakcije\obj\Debug\BankovneTransakcije.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marta\source\repos\BankovneTransakcije\BankovneTransakcije\obj\Debug\BankovneTransakcije.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\BankovneTransakcije\BankovneTransakcije\obj\Debug\BankovneTransakcije.exe
+C:\Users\Marta\source\repos\BankovneTransakcije\BankovneTransakcije\obj\Debug\BankovneTransakcije.pdb

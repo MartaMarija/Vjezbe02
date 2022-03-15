@@ -1,0 +1,8 @@
+C:\Users\Marta\source\repos\Corona\Corona\obj\Debug\Corona.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\Corona\Corona\obj\Debug\Corona.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marta\source\repos\Corona\Corona\obj\Debug\Corona.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\Corona\Corona\bin\Debug\Corona.exe.config
+C:\Users\Marta\source\repos\Corona\Corona\bin\Debug\Corona.exe
+C:\Users\Marta\source\repos\Corona\Corona\bin\Debug\Corona.pdb
+C:\Users\Marta\source\repos\Corona\Corona\obj\Debug\Corona.exe
+C:\Users\Marta\source\repos\Corona\Corona\obj\Debug\Corona.pdb

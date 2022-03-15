@@ -1,0 +1,8 @@
+C:\Users\Marta\source\repos\Bodovi\Bodovi\bin\Debug\Bodovi.exe.config
+C:\Users\Marta\source\repos\Bodovi\Bodovi\bin\Debug\Bodovi.exe
+C:\Users\Marta\source\repos\Bodovi\Bodovi\bin\Debug\Bodovi.pdb
+C:\Users\Marta\source\repos\Bodovi\Bodovi\obj\Debug\Bodovi.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\Bodovi\Bodovi\obj\Debug\Bodovi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marta\source\repos\Bodovi\Bodovi\obj\Debug\Bodovi.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\Bodovi\Bodovi\obj\Debug\Bodovi.exe
+C:\Users\Marta\source\repos\Bodovi\Bodovi\obj\Debug\Bodovi.pdb

@@ -1,0 +1,8 @@
+C:\Users\Marta\source\repos\2_labosi\Zalihe\Zalihe\bin\Debug\Zalihe.exe.config
+C:\Users\Marta\source\repos\2_labosi\Zalihe\Zalihe\bin\Debug\Zalihe.exe
+C:\Users\Marta\source\repos\2_labosi\Zalihe\Zalihe\bin\Debug\Zalihe.pdb
+C:\Users\Marta\source\repos\2_labosi\Zalihe\Zalihe\obj\Debug\Zalihe.csproj.AssemblyReference.cache
+C:\Users\Marta\source\repos\2_labosi\Zalihe\Zalihe\obj\Debug\Zalihe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marta\source\repos\2_labosi\Zalihe\Zalihe\obj\Debug\Zalihe.csproj.CoreCompileInputs.cache
+C:\Users\Marta\source\repos\2_labosi\Zalihe\Zalihe\obj\Debug\Zalihe.exe
+C:\Users\Marta\source\repos\2_labosi\Zalihe\Zalihe\obj\Debug\Zalihe.pdb
